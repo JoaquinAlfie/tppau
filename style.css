@@ -147,3 +147,70 @@
     text-decoration: none;
     color: inherit; 
   }
+
+  .team {
+    text-align: center;
+    margin: 100px 0;
+    font-size: 8mm;
+  }
+
+  .section-title {
+    font-size: 2em;
+    margin-bottom: 40px;
+    font-weight: bold;
+    color:#FFFFFF;
+  }
+
+  .team-member {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 40px;
+    margin-left: 450px;
+    gap: 20px;
+    color:#FFFFFF;
+  }
+
+  .member-info {
+    text-align: left;
+    max-width: 400px;
+    color:#FFFFFF;
+  }
+
+  .member-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  
+
+
+
+
+  .project-description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    font-size: 25px;
+  }
+
+  .description-container {
+    max-width: 1500px;
+    text-align: left;
+  }
+
+  .section-title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .project-text {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: black;
+  }
