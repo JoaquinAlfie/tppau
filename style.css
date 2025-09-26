@@ -166,7 +166,7 @@
     justify-content: left;
     align-items: center;
     margin-bottom: 40px;
-    margin-left: 450px;
+    margin-left: 300px;
     gap: 20px;
     color:#FFFFFF;
   }
@@ -174,7 +174,8 @@
   .member-info {
     text-align: left;
     max-width: 400px;
-    color:#FFFFFF;
+    color:#ffffff;
+    font-weight: 500;
   }
 
   .member-img {
@@ -200,6 +201,7 @@
   .description-container {
     max-width: 1500px;
     text-align: left;
+    margin-left: 20px;
   }
 
   .section-title {
@@ -213,4 +215,5 @@
     font-size: 1.2em;
     line-height: 1.6;
     color: black;
+    font-weight: 500;
   }
