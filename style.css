@@ -436,3 +436,16 @@
     align-items: center;
     display: flex;
 }
+
+.caca {
+  display: flex;
+  align-items: center;
+  }
+.imgcaca {
+  display: flex;
+ }
+
+ .tituysub {
+  display: flex;
+  flex-direction: column;
+}
